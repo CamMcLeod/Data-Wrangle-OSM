@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/9363670/sort-dictionary-by-number-of-values-under-each-key
+https://www.safaribooksonline.com/library/view/regular-expressions-cookbook/9781449327453/ch04s15.html
+http://docs.mongodb.org/manual/reference/method/db.collection.aggregate/
+http://api.mongodb.org/python/current/api/pymongo/command_cursor.html
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub#h.ql5hndj5vh2a
+http://wiki.openstreetmap.org/wiki/Map_Features
+http://docs.mongodb.org/manual/reference/operator/query/

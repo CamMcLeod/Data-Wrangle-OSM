@@ -1,0 +1,5 @@
+https://s3.amazonaws.com/metro-extracts.mapzen.com/vancouver_canada.osm.bz2
+
+Vancouver is a coastal city in the south-western corner of Canada. Vancouver is a seaport best known for its popularity as a Hollywood filming location, and its proximity to both mountains and the ocean. Vancouver was also the host of the 2010 Winter Olympic games.
+
+I chose Vancouver because it is the city where UBC, the school where I took my undergraduate degree, is located.
